@@ -1,0 +1,10 @@
+{
+    "name": "Jade_2",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Jade_2.xml",
+    "author": "Creamy55",
+    "minimum_firmware_version": 42
+}
